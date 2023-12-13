@@ -70,7 +70,7 @@
 
 <!-- depending on purpose -->
 <div align="left" width"100%">
-  <img align="top" src="https://raw.githubusercontent.com/Mark-42ko/Mark-42ko/master/depending.svg">
+  <img align="top" src="https://raw.githubusercontent.com/Mark-42ko/Mark-42ko/main/depending.svg">
 </div>
 <br />
 
@@ -184,7 +184,7 @@
   <tr>
     <td colspan="2" style="width:100%">
       <div align="center">
-        <img align="middle" width="100%" height="54" src="https://raw.githubusercontent.com/Mark-42ko/Mark-42ko/master/table_title.svg" />
+        <img align="middle" width="100%" height="54" src="https://raw.githubusercontent.com/Mark-42ko/Mark-42ko/main/table_title.svg" />
       </div>
     </td>
   </tr>
